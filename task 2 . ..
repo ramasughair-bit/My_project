@@ -1,0 +1,5 @@
+Python AI Sentiment Analyzer
+A simple CLI-based Artificial Intelligence program developed in Python that analyzes user-provided text
+to predict whether the sentiment is **Positive**, **Negative**, or **Neutral**.
+The goal of this project is to implement basic Natural Language Processing (NLP) logic using keyword matching 
+to categorize user emotions expressed in text.
