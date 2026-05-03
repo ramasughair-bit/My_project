@@ -1,0 +1,2 @@
+Hashing is a process of converting data into a fixed-length string that cannot be reversed.
+It is used to securely store passwords instead of plain text, improving system security.
